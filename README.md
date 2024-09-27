@@ -58,7 +58,7 @@ Fend
 
 En el siguiente video se muestra el movimiento realizado utilizando el código anterior, cuyo objetivo fue apilar una serie de fusibles. Este proceso demuestra el correcto funcionamiento del sistema y cumple con los objetivos establecidos para la práctica
 
-[https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link](https://drive.google.com/drive/folders/1qcI8ykO0PPjPOEMBOcoG6jSuusFKTzMy?usp=sharing)
+https://drive.google.com/drive/folders/1LNkZFlLKDiIUVDZCGS-185doGVwsoqju?usp=drive_link
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
