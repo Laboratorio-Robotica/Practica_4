@@ -19,40 +19,27 @@ El movimiento del brazo consiste en recoger 4 objetos (fusible 1, fusbible 2, fu
 
 
 
-![image](https://github.com/user-attachments/assets/45941ddc-1fae-4280-8c13-9384bd75e29e)
 
 
 De tal manera que el codigo desarrollado quedo de la siguiente manera:
 ```
 Function main
-Home
-Go Arriba1
-On 2
-Go Abajo1
-Off 2
-Go Arriba1
-Go Arriba2
-Go Soltar1
-On 2
-Go Arriba2
-Go Arriba3
-Go Abajo2
-Off 2
-Go Arriba3
-Home
-Go Arriba1
-Go Abajo1
-On 2
-Go Arriba1
-Go Arriba2
-Go Soltar1
-Off 2
-Go Arriba2
-Go Arriba3
-Go Abajo2
-On 2
-Go Arriba3
-Home
+	
+	Integer i
+	For i = 0 To 3
+		On 2
+		Go Posicion0
+		Go Posicion1
+		Off 2
+		Go Posicion0
+		Go Posicion2
+		Go Posicion3 +Z(i * 12)
+		On 2
+		Go Posicion2
+	
+	Next
+	
+
 Fend
 ```
 
